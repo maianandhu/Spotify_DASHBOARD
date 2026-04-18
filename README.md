@@ -1,4 +1,6 @@
 # Spotify Streaming Trends & Platform Performance Analysis (2020–2023)
+###Dashboard 
+![Dashboard](Images/Dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes a dataset of **953 top-streamed tracks** on Spotify to uncover the ingredients of a global hit. Beyond just stream counts, this analysis explores how audio features (like BPM and danceability) and platform-specific exposure (Spotify vs. Apple Music vs. Deezer) influence a song's success.
