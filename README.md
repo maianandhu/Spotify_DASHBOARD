@@ -9,19 +9,23 @@ This project analyzes a dataset of **953 top-streamed tracks** on Spotify to unc
 I structured this analysis around key business questions. Below are the visual findings from the dashboard:
 ### 1. Which tracks and artists are the "Heavy Hitters"?
 * **Insight:** Taylor Swift leads with 34 tracks in the top list, while *Blinding Lights* holds the individual record for streams (~3.7B).
-* **Visual:** ![Top 10 Songs](Images/top10_songs.jpeg)
+* **Visual:**
+* ![Top 10 Songs](Images/top10_songs.jpeg)
 
 ### 2. Which platform provides the most exposure?
 * **Insight:** Spotify is the clear leader in playlist ecosystem dominance, with over 4.9M playlist inclusions, dwarfing Apple Music and Deezer.
-* **Visual:** `![Platform Comparison](platform_exposure.jpeg)` *(Replace with your renamed filename)*
+* **Visual:**
+* ![Platform Comparison](Images/Platform_Exposure_Comparison.jpeg)
 
 ### 3. Does song popularity increase over time?
 * **Insight:** While 2022–2023 saw the highest volume of new hits, songs from 2020 show higher average "streaming longevity."
-* **Visual:** `![Streaming Trends Over Time](trends_analysis.jpeg)` *(Replace with your renamed filename)*
+* **Visual:**
+* ![Streaming Trends Over Time](Images/Most_Streamed_Artists.jpeg)
 
 ### 4. Is there a "Hit Formula" for audio features?
 * **Insight:** Most top-tier hits fall within a specific BPM range (110–150) and maintain a "Danceability" score above 70%.
-* **Visual:** `![Music Characteristics](audio_features.jpeg)` *(Replace with your renamed filename)*
+* **Visual:**
+* ![Music Characteristics](Images/Released_Year_vs_Average_Streams.png)
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Data cleaning, Pivot Tables, and Dashboard creation.
