@@ -20,12 +20,12 @@ I structured this analysis around key business questions. Below are the visual f
 ### 3. Does song popularity increase over time?
 * **Insight:** While 2022–2023 saw the highest volume of new hits, songs from 2020 show higher average "streaming longevity."
 * **Visual:**
-* ![Streaming Trends Over Time](Images/Most_Streamed_Artists.jpeg)
+* ![Streaming Trends Over Time](Images/Released_Year_vs_Average_Streams.png)
 
-### 4. Is there a "Hit Formula" for audio features?
-* **Insight:** Most top-tier hits fall within a specific BPM range (110–150) and maintain a "Danceability" score above 70%.
+### 4. 2.	Which artists appear most frequently?
+* **Insight:** 
 * **Visual:**
-* ![Music Characteristics](Images/Released_Year_vs_Average_Streams.png)
+* ![Music Characteristics](Images/Most_Streamed_Artists.jpeg)
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Data cleaning, Pivot Tables, and Dashboard creation.
