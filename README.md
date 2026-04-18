@@ -1,5 +1,5 @@
 # Spotify Streaming Trends & Platform Performance Analysis (2020–2023)
-###Dashboard 
+### Dashboard 
 ![Dashboard](Images/Dashboard.png)
 
 ## 📌 Project Overview
