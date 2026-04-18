@@ -7,7 +7,7 @@ This project analyzes a dataset of **953 top-streamed tracks** on Spotify to unc
 I structured this analysis around key business questions. Below are the visual findings from the dashboard:
 ### 1. Which tracks and artists are the "Heavy Hitters"?
 * **Insight:** Taylor Swift leads with 34 tracks in the top list, while *Blinding Lights* holds the individual record for streams (~3.7B).
-* **Visual:** `![Top 10 Songs](top10_songs.jpeg)`
+* **Visual:** `![Top 10 Songs](images/top10_songs.jpeg)`
 
 ### 2. Which platform provides the most exposure?
 * **Insight:** Spotify is the clear leader in playlist ecosystem dominance, with over 4.9M playlist inclusions, dwarfing Apple Music and Deezer.
